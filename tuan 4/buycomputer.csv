@@ -1,0 +1,16 @@
+id,outlook,temperature,humidity,wind,play
+1,Young,High,no,fair,no
+2,Young,high,no,excellent,no
+3,Medium,high,no,fair,yes
+4,Old,medium,no,fair,yes
+5,Old,low,yes,fair,yes
+6,Old,low,yes,excellent,no
+7,Medium,low,yes,excellent,yes
+8,Young,medium,no,fair,no
+9,Young,low,yes,fair,yes
+10,Old,medium,yes,fair,yes
+11,Young,medium,yes,excellent,yes
+12,Medium,medium,no,excellent,yes
+13,Medium,high,yes,fair,yes
+14,Old,medium,no,excellent,no
+
